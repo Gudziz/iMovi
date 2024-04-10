@@ -1,1 +1,1 @@
-Projeto simples de Bootstrap 5
+Projeto simples utilizando Bootstrap 5
